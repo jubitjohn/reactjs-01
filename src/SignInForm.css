@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    padding-top: 10%;
+}
+input{
+    margin-left: 10px;
+}
+.shadow{
+    padding-left: 40%;
+}
+.px-5{
+    width: 600px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btn
+{
+    padding-top: 10px;
+}
+.text-center{
+    padding-bottom: 5%;
+}
+h5{
+    color: #73777B;
+    padding-bottom: 5%;
+    opacity: 70%;
+}
+.form-label{
+    font-weight: bold;
+}
